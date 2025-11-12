@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vercixxx&label=Profile views&color=0e75b6&style=flat" alt="Vercixxx" /> </p>
 
-- 🔭 I'm currently working on **Company web page - favelabarber.pl**
+- 🔭 I'm currently working on **Company web page - <a href="http://favelabarber.pl" target="_blank" rel="noreferrer">favelabarber.pl </a>**
 
 - 🌱 I'm currently learning **Next.js**
 
